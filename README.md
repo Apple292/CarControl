@@ -36,3 +36,8 @@ The system consists of an iOS application built with SwiftUI, a backend server r
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Installation & Documentation
+
+<a href="https://aidenwood.me/documentation.html">Documentation</a>
+
